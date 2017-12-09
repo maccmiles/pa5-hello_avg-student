@@ -1,0 +1,18 @@
+Score: 100
+
+== ontime ==
+ontime: +0
+
+== junit ==
+edu.wit.cs.comp1000.grading.PA5aGrading#testEmpty: +5
+edu.wit.cs.comp1000.grading.PA5aGrading#testBlank: +5
+edu.wit.cs.comp1000.grading.PA5aGrading#testLetterLower: +5
+edu.wit.cs.comp1000.grading.PA5aGrading#testLetterUpper: +5
+edu.wit.cs.comp1000.grading.PA5aGrading#testLetterMixed: +5
+edu.wit.cs.comp1000.grading.PA5aGrading#testHelloWorld: +10
+edu.wit.cs.comp1000.grading.PA5aGrading#testPhrases: +15
+edu.wit.cs.comp1000.grading.PA5bGrading#testStop: +5
+edu.wit.cs.comp1000.grading.PA5bGrading#testZeroOne: +5
+edu.wit.cs.comp1000.grading.PA5bGrading#testIntOne: +10
+edu.wit.cs.comp1000.grading.PA5bGrading#testDecOne: +10
+edu.wit.cs.comp1000.grading.PA5bGrading#testMultiple: +20
